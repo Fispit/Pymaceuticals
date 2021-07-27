@@ -13,5 +13,17 @@ A company wants to analyze the results of several different cancer treatment med
 
 The results will include:
 
-###
+
+
+### Number of Measurements
+  *
+
+![Number of Measurements](Images/measurementnum.png)
+
+### Tumor statistics 
+  * Mean
+  * Median
+  * Variance
+  * Standard Deviation
+  * Standard Error
 
