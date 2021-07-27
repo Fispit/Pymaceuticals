@@ -16,7 +16,7 @@ The results will include:
 
 
 ### Number of Measurements
-  *
+  * Grouped by Drug Type
 
 ![Number of Measurements](Images/measurementnum.png)
 
@@ -26,4 +26,23 @@ The results will include:
   * Variance
   * Standard Deviation
   * Standard Error
+
+![Statistics](Images/tumor_summary.png)
+
+### Mouse Gender Count
+
+![Genders](Images/genders.png)
+
+### Boxplot Statistics for all Medicines
+
+![Boxplots](Images/boxplots.png)
+
+### Treatment projections for a single mouse
+
+![Projections](Images/progression.png)
+
+### Relation Between Tumor Size and Mouse Weight
+
+![Correlation](Images/correlation.png)
+
 
